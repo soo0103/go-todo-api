@@ -54,3 +54,7 @@ go run main.go
 ```id="a3"
 http://localhost:3000
 ```
+
+## 참고
+
+이 프로젝트는 "Tucker의 Go 언어 프로그래밍"을 참고하여 작성되었습니다.
